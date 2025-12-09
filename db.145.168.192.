@@ -18,4 +18,9 @@ $TTL 60s
 73.145.168.192.in-addr.arpa. IN PTR mail02.viralup.com.
 74.145.168.192.in-addr.arpa. IN PTR web.viralup.com.
 75.145.168.192.in-addr.arpa. IN PTR file.viralup.com.
+76.145.168.192.in-addr.arpa. IN PTR est01.estacions.viralup.com.
+77.145.168.192.in-addr.arpa. IN PTR est02.estacions.viralup.com.
+78.145.168.192.in-addr.arpa. IN PTR est03.estacions.viralup.com.
+79.145.168.192.in-addr.arpa. IN PTR est04.estacions.viralup.com.
+80.145.168.192.in-addr.arpa. IN PTR est05.estacions.viralup.com.
 
