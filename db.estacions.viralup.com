@@ -13,10 +13,10 @@ estacions.viralup.com. IN NS ns01.viralup.com.
 estacions.viralup.com. IN NS ns2.viralup.com.
 
 ; --- Registre A (Adre  a IP) de l'  nica estaci   que   s part d'aquesta subzona ---
-est01.estacions.viralup.com. IN A 10.18.158.1
-est02.estacions.viralup.com. IN A 10.18.158.2
-est03.estacions.viralup.com. IN A 10.18.158.3
-est04.estacions.viralup.com. IN A 10.18.158.4
-est05.estacions.viralup.com. IN A 10.18.158.5
+est01.estacions.viralup.com. IN A 192.168.145.76
+est02.estacions.viralup.com. IN A 192.168.145.77
+est03.estacions.viralup.com. IN A 192.168.145.78
+est04.estacions.viralup.com. IN A 192.168.145.79
+est05.estacions.viralup.com. IN A 192.168.145.80
 
 
